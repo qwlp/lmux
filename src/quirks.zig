@@ -1,0 +1,1 @@
+../ghostty/src/quirks.zig

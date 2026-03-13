@@ -1,0 +1,1 @@
+../ghostty/src/main_gen.zig

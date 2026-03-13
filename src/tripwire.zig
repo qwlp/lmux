@@ -1,0 +1,1 @@
+../ghostty/src/tripwire.zig

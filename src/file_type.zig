@@ -1,0 +1,1 @@
+../ghostty/src/file_type.zig
